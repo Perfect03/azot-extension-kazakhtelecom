@@ -1,6 +1,6 @@
 {
   "name": "kazakhtelecom",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This extension for Azot lets you to download content from the tv+ Kazakhtelecom streaming service.",
   "homepage": "https://tv.telecom.kz",
   "config": {
@@ -29,6 +29,6 @@
   "devDependencies": {
     "esbuild": "^0.25.11",
     "vitest": "^4.0.18",
-    "lifestream-api": "file:./lifestream-api"
+    "lifestream-api": "file:./LifeStream-API"
   }
 }
