@@ -1,0 +1,3 @@
+[submodule "lifestream-api"]
+	path = lifestream-api
+	url = ../lifestream-api
