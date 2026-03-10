@@ -29,6 +29,6 @@
   "devDependencies": {
     "esbuild": "^0.25.11",
     "vitest": "^4.0.18",
-    "LifeStream-API": "file:./LifeStream-API"
+    "lifestream-api": "file:./lifestream-api"
   }
 }
