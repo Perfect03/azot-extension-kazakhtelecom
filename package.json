@@ -20,7 +20,7 @@
   ],
   "scripts": {
     "dev": "azt dev",
-    "build": "esbuild main.js --bundle --platform=node --alias:lifestream-api=./lifestream-api/main.ts --outfile=dist/main.js",
+    "build": "esbuild main.js --bundle --platform=node --outfile=dist/main.js",
     "test": "vitest"
   },
   "engines": {
