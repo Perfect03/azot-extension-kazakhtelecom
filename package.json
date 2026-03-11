@@ -1,6 +1,6 @@
 {
   "name": "kazakhtelecom",
-  "version": "0.0.5",
+  "version": "1.0.0",
   "description": "This extension for Azot lets you to download content from the tv+ Kazakhtelecom streaming service.",
   "homepage": "https://tv.telecom.kz",
   "config": {
