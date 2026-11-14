@@ -9,7 +9,10 @@
     "strict": true,
     "esModuleInterop": true,
     "target": "ESNext",
+    "lib": ["ESNext"],
+    "skipLibCheck": true,
+    "types": ["node"]
   },
-  "include": ["main.js", "lib/**/*"],
+  "include": ["main.ts"],
   "exclude": ["node_modules"]
 }
